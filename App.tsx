@@ -12,6 +12,7 @@ const App = () => {
       keyboardType = "numeric"
       style={styles.input}
       placeholder= {"0"}
+      value = "0"
       >
       </TextInput>
       <View>
@@ -99,16 +100,16 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "black",
-    paddingTop: "90%"
+    paddingTop: "75%"
   },
+
   input: {
-    borderWidth: 1,
-    borderColor: "white",
     margin: 20,
-    paddingHorizontal: 5,
     color: "white",
     width: "20%",
-    marginLeft: "75%"
+    marginLeft: "85%", 
+    fontSize: 70,
+    fontWeight: "bold"
   },
 
   row1: {
