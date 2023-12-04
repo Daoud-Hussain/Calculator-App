@@ -53,7 +53,7 @@ const App = () => {
   };
 
   const handleToggleOffPress = () => {
-    // Implement functionality for turning off the calculator (if needed)
+    // Functionality of off button
   };
 
   return (
@@ -62,6 +62,7 @@ const App = () => {
         keyboardType="numeric"
         style={styles.input}
         placeholder={"0"}
+        placeholderTextColor= "white"
         value={result ? result : val2 || val1}
       />
       <View>
