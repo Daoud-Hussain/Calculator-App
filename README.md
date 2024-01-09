@@ -1,3 +1,4 @@
+![CalcLog](https://github.com/Daoud-Hussain/Mobile-Calculator-App/assets/87219816/d4edfdd0-0f50-4efe-bc78-c95a440b12c9)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
